@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Category-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cloud-Config-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cloud-Gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eureka-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Order-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OrderDetails-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Product-Service" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+[submodule "OrderDetails-Service"]
+	path = OrderDetails-Service
+	url = https://github.com/LeeamShutzman/OrderDetails-Service.git
+[submodule "Product-Service"]
+	path = Product-Service
+	url = https://github.com/LeeamShutzman/Product-Service.git
+[submodule "Order-Service"]
+	path = Order-Service
+	url = https://github.com/LeeamShutzman/Order-Service.git
+[submodule "Category-Service"]
+	path = Category-Service
+	url = https://github.com/LeeamShutzman/Category-Service.git
+[submodule "Cloud-Gateway"]
+	path = Cloud-Gateway
+	url = https://github.com/LeeamShutzman/Cloud-Gateway.git
+[submodule "Eureka-Server"]
+	path = Eureka-Server
+	url = https://github.com/LeeamShutzman/Eureka-Server.git
+[submodule "Cloud-Config-Server"]
+	path = Cloud-Config-Server
+	url = https://github.com/LeeamShutzman/Cloud-Config-Server.git
